@@ -165,7 +165,7 @@ initial_activities = {
         "participants": ["william@mergington.edu", "jacob@mergington.edu"]
     },
     "Manga Maniacs": {
-        "description": "Unleash your inner hero! Dive into epic sagas of ninjas, pirates, titan-slayers, and unlikely heroes who never give up. Debate legendary plot twists, discover your next obsession, and find your nakama in the wild world of Japanese manga.",
+        "description": "Embark on action-packed adventures through Japanese manga (graphic novels), where bold heroes, epic rivalries, and fantastical worlds leap off every page.",
         "schedule": "Tuesdays, 7:00 PM - 8:00 PM",
         "schedule_details": {
             "days": ["Tuesday"],
